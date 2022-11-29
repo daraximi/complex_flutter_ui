@@ -1,5 +1,4 @@
 import 'dart:ui';
-import 'dart:ui';
 
 class AppColor{
   static Color homePageBackground = const Color(0xFFfbfcff);
@@ -16,6 +15,7 @@ class AppColor{
   static Color  secondPageTitleColor= const Color(0xFFfefeff);
   static Color secondPageContainerGradient1stColor = const Color(0xFF4759DB);
   static Color secondPageContainerGradient2ndColor  = const Color(0xFF4E6BD8);
+  static Color secondPageIconColor = const Color(0xFFfafafe);
   static Color loopColor = const Color(0xFF6d8dea);
   static Color setsColor = const Color(0xFF9999a9);
   static Color circuitsColor = const Color(0xFF2f2f51);

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Side plank",
+    "time": "60 seconds",
+    "thumbnail": "assets/fff/anotherside.jpg"
+  },
+  {
+    "title": "Abs",
+    "time": "45 seconds",
+    "thumbnail": "assets/fff/bells.jpg"
+  },
+  {
+    "title": "Chest",
+    "time": "60 seconds",
+    "thumbnail": "assets/fff/chest.jpg"
+  },
+  {
+    "title": "Mountain Climbers",
+    "time": "45 seconds",
+    "thumbnail": "assets/fff/climbers.jpg"
+  },
+  {
+    "title": "Glutes",
+    "time": "45 seconds",
+    "thumbnail": "assets/fff/glutes.jpg"
+  },
+  {
+    "title": "Squat Jumps",
+    "time": "60 seconds",
+    "thumbnail": "assets/fff/jumpers.jpg"
+  },
+  {
+    "title": "Sumo Squats",
+    "time": "45 seconds",
+    "thumbnail": "assets/fff/sumo.jpg"
+  },
+  {
+    "title": "Jumps",
+    "time": "45 seconds",
+    "thumbnail": "assets/fff/jumps.jpg"
+  },
+  {
+    "title": "Side bar",
+    "time": "30 seconds",
+    "thumbnail": "assets/fff/sides.jpg"
+  },{
+  "title": "Squats",
+  "time": "60 seconds",
+  "thumbnail": "assets/fff/squats.jpg"
+}
+]
