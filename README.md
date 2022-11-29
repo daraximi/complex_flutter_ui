@@ -1,16 +1,9 @@
 # complex_flutter_ui
 
 A project to demonstrate complex UI elements that can be made using Flutter.
+There are only two screens in this demo. Tap the "Details->" button on the home page to get to the
+second screen. 
+![photo_2022-11-29_16-16-41](https://user-images.githubusercontent.com/75390273/204568211-70cc7c96-b360-46f7-b010-f2c637f77f71.jpg)
 
-## Getting Started
+![photo_2022-11-29_16-16-43](https://user-images.githubusercontent.com/75390273/204568276-e39d8496-85c6-4139-94d2-9fc8c5d0775e.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
