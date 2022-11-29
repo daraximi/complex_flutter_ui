@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Side Plank",
+    "img": "assets/fff/anotherside.jpg"
+  },
+  {
+    "title": "Abs",
+    "img": "assets/fff/bells.jpg"
+  },
+  {
+    "title": "Chest",
+    "img": "assets/fff/chest.jpg"
+  },
+  {
+    "title": "Mountain Climbers",
+    "img": "assets/fff/climbers.jpg"
+  },
+  {
+    "title": "Glutes",
+    "img": "assets/fff/glutes.jpg"
+  },
+  {
+    "title": "Squat Jumps",
+    "img": "assets/fff/jumpers.jpg"
+  },
+  {
+    "title": "Jumps",
+    "img": "assets/fff/jumps.jpg"
+  },
+  {
+    "title": "Side bar",
+    "img": "assets/fff/sides.jpg"
+  },
+  {
+    "title": "Squats",
+    "img": "assets/fff/squats.jpg"
+  },
+  {
+    "title": "Sumo Squats",
+    "img": "assets/fff/sumo.jpg"
+  }
+]
